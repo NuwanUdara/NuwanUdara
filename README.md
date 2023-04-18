@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NuwanUdara
-- 👀 I’m interested in Embedded Systems, IoT and telecommunication.
+- 👀 I’m interested in Embedded Systems, IoT and Devops.
 - 🌱 I’m an undergraduate in Electronic and telecommunication from University of moratuwa
 - 📫 Nuwanudara36@gmail.com
 <!---
